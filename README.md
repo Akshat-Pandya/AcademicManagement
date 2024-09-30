@@ -30,4 +30,3 @@ To install and run the app locally, follow these steps:
 4. Run the app:
    ```bash
    flutter run
->>>>>>> 2126e5f8d4c480d64bf92c56cfe494c30b1aaa73
